@@ -95,6 +95,6 @@ https://github.com/J-PCode/CentriaCybersecurityCourse2025/blob/main/BookingSyste
 
 ---
 > [!NOTE]
-> 📁 **Attach full report:** → `check itslearning` → **[Add a link here](https://github.com/J-PCode/CentriaCybersecurityCourse2025/blob/main/BookingSystem/Phase1/Part1/2025-11-19-ZAP-Report.md)**
+> 📁 **Full report:**  → **[Link to zap report ](https://github.com/J-PCode/CentriaCybersecurityCourse2025/blob/main/BookingSystem/Phase1/Part1/2025-11-19-ZAP-Report.md)**
 
 ---
