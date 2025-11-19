@@ -10,3 +10,6 @@
 | 14.11.2025 | 3 |Lecture 2 & lab 1 |watched lecture and finished lab 1, added reflection|
 | 17.11.2025 | 4 |Lab 2-6 + 1 extra |finished lab 2-6 and 1 extra, added reflection|
 | 18.11.2025 | 1 |Lab 2-6 + 2 extra |checked assignment, accidentantly i did one extra assignment removed extra reflections and returned task 3|
+| 18.11.2025 | 2 | Listened course class and instructions for docker | done |
+| 18.11.2025 | 3 | BookingSystem phase0 and phase1-part1 | Installed docker and zap. Tried to start doing, too tired back tomorrow |
+| 19.11.2025 | 3,5 | BookingSystem phase1-part1 | Pentested bookingsystem, filled logbook and returned report. |
