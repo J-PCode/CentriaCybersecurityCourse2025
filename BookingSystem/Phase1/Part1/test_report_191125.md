@@ -67,13 +67,6 @@ Critical
 | F-04 | 🔴 High | Missing Session management | GET and POST responses isn't Set-Cookie header and nothing to identify session. This means no session isolation and authentication protection | Burp screenshot: Response headers for get / register contain no set-cookie header |
 | F-05 | 🟠 Medium | Missing Secure Cookie flags | Since the application sets no cookies, security flags such as `HttpOnly`, `Secure`, and `SameSite` are missing. This leaves the app unprotected against CSRF and XSS-related cookie abuse. | Response headers include only `content-type` and `content-length`, no cookies. |
 
----
-
-> [!NOTE]
-> Include up to 5 findings total.   
-> Keep each description short and clear.
-
----
 
 # 5️⃣ OWASP ZAP Test Report (Attachment)
 
