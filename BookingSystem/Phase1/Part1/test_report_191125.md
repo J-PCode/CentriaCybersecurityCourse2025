@@ -1,7 +1,7 @@
 # 1️⃣ Introduction
 
 **Tester(s):**  
-- Name: Juho-Pekka Orjala 
+- Name: J-PCode
 
 **Purpose:**  
 The system is being developed in phases. In this first phase, i am testing user registration functionality. I act as a white-hat hacker, using a gray-box testing approach. 
