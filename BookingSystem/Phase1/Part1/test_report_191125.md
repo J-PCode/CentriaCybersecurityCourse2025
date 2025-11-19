@@ -80,18 +80,6 @@ Critical
 **Purpose:**  
 full ZAP report: 
 https://github.com/J-PCode/CentriaCybersecurityCourse2025/blob/main/BookingSystem/Phase1/Part1/2025-11-19-ZAP-Report.md
----
-
-**Instructions (CMD version):**
-1. Run OWASP ZAP baseline scan:  
-   ```bash
-   zap-baseline.py -t https://example.com -r zap_report_round1.html -J zap_report.json
-   ```
-2. Export results to markdown:  
-   ```bash
-   zap-cli report -o zap_report_round1.md -f markdown
-   ```
-3. Save the report as `zap_report_round1.md` and link it below.
 
 ---
 > [!NOTE]
