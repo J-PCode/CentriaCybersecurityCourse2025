@@ -13,3 +13,5 @@
 | 18.11.2025 | 2 | Listened course class and instructions for docker | done |
 | 18.11.2025 | 3 | BookingSystem phase0 and phase1-part1 | Installed docker and zap. Tried to start doing, too tired back tomorrow |
 | 19.11.2025 | 3,5 | BookingSystem phase1-part1 | Pentested bookingsystem, filled logbook and returned report. |
+| 28.11.2025 | 2 | Listened course instruction phase1-part2 | finished |
+| 1.12.2025 | 6,5 | did Phase1 part 2 | finished barely, lot of mistakes in part-1 |
