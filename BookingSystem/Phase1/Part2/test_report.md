@@ -17,7 +17,7 @@ This is part 2 of phase1 meaning i am testing second version of website.
 
 **Test environment & dates:**  
 - Start:  1.12.2025
-- End:  
+- End:  1.12.2025
 - Test environment: Windows 11, docker enviroment (local), firefox, burb/chromium browser, zap tool.
 
 **Assumptions & constraints:**  
