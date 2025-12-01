@@ -38,7 +38,7 @@ Critical
 **Top 5 immediate actions:**  
 1.  Remove client controlled 'role' parameter
 2.  validate roles on server side
-3.  Add proper session management with secure cookies
+3.  SQL Injection in registration
 4.  Add CSRF protection and basic security headers
 5.  Enforce HTTPS and stop sending passwords in cleartext
 

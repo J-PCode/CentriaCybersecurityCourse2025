@@ -8,7 +8,7 @@
 
 Task is to identify as many anomalies and vulnerabilities as possible and categorize findings.
 
-This is part 2 of phase1 meaning i am testing second version of website.
+This is Phase 1 / Part 2 testing of the Booking System. The goal is to retest the five most critical findings from Part 1 and verify whether they were fixed in the updated version of the application.
 
 **Scope:**  
 - Tested components:  user registration
@@ -30,13 +30,15 @@ This is part 2 of phase1 meaning i am testing second version of website.
 # 2️⃣ Executive Summary
 
 **Short summary (1-2 sentences):**  
+The majority of the security issues from Part 1 remain unpatched. All five original critical findings are still exploitable in the Phase 1 / Part 2 version.
 
-**Overall risk level:** (Low / Medium / High / Critical)
+**Overall risk level:** 
+High
 
 **Top 5 immediate actions:**  
 1.  Remove client controlled 'role' parameter | Not fixed
 2.  validate roles on server side | not fixed
-3.  Add proper session management with secure cookies | This one is wrong issue should be SQL Injection in registration
+3.  SQL Injection in registration | not fixed
 4.  Add CSRF protection and basic security headers | Not fixed
 5.  Enforce HTTPS and stop sending passwords in cleartext  | Not fixed
 
