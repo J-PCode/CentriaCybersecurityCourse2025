@@ -15,3 +15,7 @@
 | 19.11.2025 | 3,5 | BookingSystem phase1-part1 | Pentested bookingsystem, filled logbook and returned report. |
 | 28.11.2025 | 2 | Listened course instruction phase1-part2 | finished |
 | 1.12.2025 | 6,5 | did Phase1 part 2 | finished barely, lot of mistakes in part-1 |
+| 2.12.2025 | 6,5 | Phase 2 install and pentest registration page, started cracking passwords with hashcat | test and pentest report done, 4 +2 passwords cracked |
+| 3.12.2025 | 3 | Phase 2 cracking passwords with hashcat and reporting | report done, 3+1 passwords cracked |
+
+

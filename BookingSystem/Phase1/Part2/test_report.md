@@ -80,10 +80,10 @@ High
 
 **Purpose:**  
 full ZAP report: 
-https://github.com/J-PCode/CentriaCybersecurityCourse2025/blob/main/BookingSystem/Phase1/Part2/ZAP-Report-2.md
+https://github.com/J-PCode/CentriaCybersecurityCourse2025/blob/main/BookingSystem/Phase1/Part2/ZAP-Report-round2.md
 
 ---
 > [!NOTE]
-> 📁 **Full report:**  → **[Link to zap report ](https://github.com/J-PCode/CentriaCybersecurityCourse2025/blob/main/BookingSystem/Phase1/Part2/ZAP-Report-2.md)**
+> 📁 **Full report:**  → **[Link to zap report ](https://github.com/J-PCode/CentriaCybersecurityCourse2025/blob/main/BookingSystem/Phase1/Part2/ZAP-Report-round2.md)**
 
 ---
