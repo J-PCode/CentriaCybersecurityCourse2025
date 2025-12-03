@@ -35,7 +35,7 @@ Several passwords were cracked immediately because they exist directly in the wo
 
 `genius@starkindustries.com → iamironman whatsupdoc@looneytunes.tv → carrots123 doh@springfieldpower.net → donuts4life iamyourfather@deathstar.gov → darkside42`
 
-![Screenshot](img/Pasted image 20251203134952.png)
+![Screenshot](img/20251203134952.png)
 
 ---
 
@@ -55,9 +55,9 @@ Rules take a base word from the dictionary and modify it (e.g., capitalization, 
 **Explanation:**  
 The base word “test123” exists in rockyou.txt, and the rule modified it by capitalizing the first letter and adding an exclamation mark.
 
-![Screenshot](img/Pasted image 20251203135300.png)
+![Screenshot](img/20251203135300.png)
 
-![Screenshot](img/Pasted image 20251203135243.png)
+![Screenshot](img/20251203135243.png)
 
 ---
 
@@ -78,9 +78,9 @@ Hint: password starts with `chaos`, followed by 3 digits and a symbol.
 
 `whysoserious@gothamchaos.net → chaos123!`
 
-![Screenshot](img/Pasted image 20251203135508.png)
+![Screenshot](img/20251203135508.png)
 
-![Screenshot](img/Pasted image 20251203135523.png)
+![Screenshot](img/20251203135523.png)
 
 ---
 
@@ -96,8 +96,8 @@ Hint: password begins with `deduction`, includes 3 digits and an uppercase lette
 
 `elementary@221bbaker.uk → deduction221B`
 
-![Screenshot](img/Pasted image 20251203135414.png)
-![Screenshot](img/Pasted image 20251203135432.png)
+![Screenshot](img/20251203135414.png)
+![Screenshot](img/20251203135432.png)
 
 ---
 
@@ -113,8 +113,8 @@ Hint: password begins with `iamven`, followed by six lowercase letters.
 
 `darkknight@gothamwatch.org → iamvengeance`
 
-![Screenshot](img/Pasted image 20251203135617.png)
-![Screenshot](img/Pasted image 20251203135557.png)
+![Screenshot](img/20251203135617.png)
+![Screenshot](img/20251203135557.png)
 
 ---
 
