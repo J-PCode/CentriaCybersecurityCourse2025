@@ -35,7 +35,7 @@ Several passwords were cracked immediately because they exist directly in the wo
 
 `genius@starkindustries.com → iamironman whatsupdoc@looneytunes.tv → carrots123 doh@springfieldpower.net → donuts4life iamyourfather@deathstar.gov → darkside42`
 
-![Screenshot](./img/Pasted image 20251203134952.png)
+![Screenshot](Phase2/img/Pasted image 20251203134952.png)
 
 ---
 
