@@ -17,5 +17,8 @@
 | 1.12.2025 | 6,5 | did Phase1 part 2 | finished barely, lot of mistakes in part-1 |
 | 2.12.2025 | 6,5 | Phase 2 install and pentest registration page, started cracking passwords with hashcat | test and pentest report done, 4 +2 passwords cracked |
 | 3.12.2025 | 3 | Phase 2 cracking passwords with hashcat and reporting | report done, 3+1 passwords cracked |
-
-
+| 5.12.2025 | 1,5 | Intro to authentication lecture | Didn't finish |
+| 9.12.2025 | 5 | PS tasks 7-14  | Tasks done |
+| 10.12.2025 | 4 | Portswigger tasks 14-18 | Portswigger tasks completed |
+| 15.12.2025 | 4 | authentication and authorization lecture | Finished |
+| 16.12.2025 | 7,5 | Phase 3 instructions and start | Finished |
