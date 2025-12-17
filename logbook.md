@@ -22,3 +22,4 @@
 | 10.12.2025 | 4 | Portswigger tasks 14-18 | Portswigger tasks completed |
 | 15.12.2025 | 4 | authentication and authorization lecture | Finished |
 | 16.12.2025 | 7,5 | Phase 3 instructions and start | Finished |
+| 17.12.2025 | 2 | Endreport | Finished |
